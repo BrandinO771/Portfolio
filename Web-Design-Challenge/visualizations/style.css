@@ -14,8 +14,8 @@
   #bio-image_med {
     /* width: 280px;
     height: 190px; */
-    width: 380px;
-    height: 280px;
+    width: 340px;
+    height: 240px;
   
     /* margin-right: 20px; */
   }
@@ -38,7 +38,7 @@
 
 
 
- @media screen and (min-width: 650px)
+ @media screen and (min-width: 905px)
   {
     .navbar.navbar-expand-lg.navbar-dark
     {
@@ -58,7 +58,7 @@
 
   }
 
- @media screen and (max-width: 650px)
+ @media screen and (max-width: 900px)
   { 
     body 
     { 
