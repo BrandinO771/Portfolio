@@ -40,7 +40,7 @@ p {
 
 
 
- @media screen and (min-width: 1001px)
+ @media screen and (min-width: 1201px)
   {
     .navbar.navbar-expand-lg.navbar-dark
     {
@@ -61,7 +61,7 @@ p {
 
 }
 
- @media screen and (max-width: 1000px)
+ @media screen and (max-width: 1200px)
   { 
     body 
     { 
